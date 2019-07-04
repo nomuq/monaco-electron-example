@@ -104,7 +104,7 @@
         "sass-loader": "^6.0.6",
         "source-map-loader": "^0.2.3",
         "spectron": "^3.8.0",
-        "style-loader": "^0.19.1",
+        "style-loader": "^0.23.1",
         "ts-jest": "^23.1.4",
         "tslint": "^5.11.0",
         "tslint-config-airbnb": "^5.4.2",
