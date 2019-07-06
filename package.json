@@ -103,7 +103,7 @@
         "redux-devtools-extension": "^2.13.5",
         "sass-loader": "^7.1.0",
         "source-map-loader": "^0.2.3",
-        "spectron": "^3.8.0",
+        "spectron": "^7.0.0",
         "style-loader": "^0.23.1",
         "ts-jest": "^23.1.4",
         "tslint": "^5.11.0",
