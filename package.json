@@ -95,7 +95,7 @@
         "husky": "^0.14.3",
         "image-webpack-loader": "^3.4.2",
         "jest": "^23.5.0",
-        "lint-staged": "^6.0.0",
+        "lint-staged": "^9.2.0",
         "node-sass": "^4.7.2",
         "prettier": "^1.9.2",
         "react-hot-loader": "^3.1.3",
